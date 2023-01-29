@@ -4,10 +4,6 @@ Fetch and graph CSV
 
 ## Tech infor
 
-**CDN:**
-
-- Chart.js
-
 **Data:**
 
 - [GISS NASA](https://data.giss.nasa.gov/gistemp/)
