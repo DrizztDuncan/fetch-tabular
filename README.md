@@ -13,7 +13,7 @@ Get the data 'Global Average Temperatures 1880-2018'
  **Data:**
  - [GISS NASA](https://data.giss.nasa.gov/gistemp/)
 
-**Frontend++
+**Frontend**
 
  - HTML
  - CSS
